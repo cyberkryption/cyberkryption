@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberkryption&show_icons=true&locale=en" alt="cyberkryption" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberkryption&" alt="cyberkryption" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberkryption&line_height=33&layout=compact&theme=dark" alt="cyberkryption" /></p>
 
