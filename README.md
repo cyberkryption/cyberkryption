@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Vulnerability Management, Threat Intel, MISP, Nessus, Pentesting, Graylog, SIEM, Sysmon, Elasticsearch, DFIR & Forensics**
 
-- 📫 How to reach me **@cyberkryption**
+- 📫 How to reach me **@cyberkryption on Twitter**
 
 - ⚡ Fun fact **I can't eat fish but love fishing**
 
