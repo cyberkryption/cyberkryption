@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/cyberkryption" target="blank"><img src="https://img.shields.io/twitter/follow/cyberkryption?logo=twitter&style=for-the-badge" alt="cyberkryption" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m always learning when time permits. Current language focus is **Rust and Golang**
 
-- 📝 I regularly write articles on [https://cyberkryption.wordpress.com](https://cyberkryption.wordpress.com)
+- 📝 I starting to blog again on [https://cyberkryption.wordpress.com](https://cyberkryption.wordpress.com)
 
 - 💬 Ask me about **Vulnerability Management, Threat Intel, MISP, Nessus, Pentesting, Graylog, SIEM, Sysmon, Elasticsearch, DFIR & Forensics**
 
