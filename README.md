@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://cyberkryption.wordpress.com](https://cyberkryption.wordpress.com)
 
-- 💬 Ask me about **Pentesting, Graylog, SIEM, Sysmon, Elasticsearch, DFIR & Forensics**
+- 💬 Ask me about **Vulnerability Management, Threat Intel, MISP, Nessus, Pentesting, Graylog, SIEM, Sysmon, Elasticsearch, DFIR & Forensics**
 
 - 📫 How to reach me **@cyberkryption**
 
