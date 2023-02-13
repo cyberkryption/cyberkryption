@@ -32,5 +32,5 @@
 
 
 <p><h3>CTF's - TraceLabs</h3></p>
-<p><img align="left" src="https://media.ca.badgr.com/uploads/badges/51310d75-3223-4436-9088-8b7b9a730fc6.png" width="150" height="159"/></p>
+<p><img align="left" src="https://media.ca.badgr.com/uploads/badges/51310d75-3223-4436-9088-8b7b9a730fc6.png" width="150" height="150"/></p>
 <br> 
