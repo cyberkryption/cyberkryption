@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberkryption&line_height=33&layout=compact&theme=dark" alt="cyberkryption" /></p>
 <h3>TraceLabs Badge</h3>
-<p><img align="left" src="https://media.ca.badgr.com/uploads/badges/51310d75-3223-4436-9088-8b7b9a730fc6.png" width="200" height="200"/></p>
+<p><img align="left" src="https://media.ca.badgr.com/uploads/badges/51310d75-3223-4436-9088-8b7b9a730fc6.png" width="150" height="159"/></p>
