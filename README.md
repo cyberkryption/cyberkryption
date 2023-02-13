@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I can't eat fish but love fishing**
 
+<h3>CTF's - TraceLabs</h3>
+<p><img align="left" src="https://media.ca.badgr.com/uploads/badges/51310d75-3223-4436-9088-8b7b9a730fc6.png" width="150" height="159"/></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cyberkryption" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberkryption" height="30" width="40" /></a>
@@ -30,5 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberkryption&show_icons=true&locale=en&theme=dark" alt="cyberkryption" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberkryption&line_height=33&layout=compact&theme=dark" alt="cyberkryption" /></p>
-<h3>TraceLabs Badge</h3>
-<p><img align="left" src="https://media.ca.badgr.com/uploads/badges/51310d75-3223-4436-9088-8b7b9a730fc6.png" width="150" height="159"/></p>
+
